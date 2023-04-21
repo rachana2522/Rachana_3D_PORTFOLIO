@@ -17,13 +17,8 @@ import threejs from "./tech/threejs.svg";
 import Laravel from "./tech/Laravel.png";
 import php from "./tech/php.png";
 import vuejs from "./tech/vuejs.png";
-
-
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
-
+import Hirekarma from "./company/Hirekarma.png";
+import Doffl from "./company/Doffl.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
@@ -47,10 +42,8 @@ export {
     tailwind,
     vuejs,
     threejs,
-    meta,
-    shopify,
-    starbucks,
-    tesla,
+    Hirekarma,
+    Doffl,
     carrent,
     jobit,
     tripguide,

@@ -12,10 +12,8 @@ import {
     tailwind,
     vuejs,
     git,
-    meta,
-    starbucks,
-    tesla,
-    shopify,
+    Hirekarma,
+    Doffl,
     carrent,
     jobit,
     tripguide,
@@ -76,7 +74,7 @@ const technologies = [{
     },
     {
         name: "vuejs",
-        icon: vue,
+        icon: vuejs,
     },
     {
         name: "Tailwind CSS",
@@ -84,7 +82,7 @@ const technologies = [{
     },
     {
         name: "Laravel",
-        icon: laravel,
+        icon: Laravel,
     },
     {
         name: "Three JS",
@@ -99,10 +97,10 @@ const technologies = [{
 
 const experiences = [{
         title: "Web Developer",
-        company_name: "Starbucks",
-        icon: starbucks,
+        company_name: "Hirekarma",
+        icon: Hirekarma,
         iconBg: "#383E56",
-        date: "March 2020 - April 2021",
+        date: "March 2021 - April 2022",
         points: [
             "Developing and maintaining web applications using React.js and other related technologies.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -113,10 +111,10 @@ const experiences = [{
 
     {
         title: "Full stack Developer",
-        company_name: "Meta",
-        icon: meta,
+        company_name: "Doffla",
+        icon: Doffl,
         iconBg: "#E6DEDD",
-        date: "Jan 2023 - Present",
+        date: "Jan 2023 - April 2023",
         points: [
             "Developing and maintaining web applications using React.js and other related technologies.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -129,14 +127,14 @@ const experiences = [{
 
 
 const projects = [{
-        name: "Car Rent",
+        name: "Jhoice",
         description: "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
         tags: [{
-                name: "react",
+                name: "Laravel",
                 color: "blue-text-gradient",
             },
             {
-                name: "mongodb",
+                name: "Vuejs",
                 color: "green-text-gradient",
             },
             {
@@ -145,7 +143,7 @@ const projects = [{
             },
         ],
         image: carrent,
-        source_code_link: "https://github.com/",
+        source_code_link: "https://jhoice.com/",
     },
     {
         name: "Job IT",
@@ -167,14 +165,14 @@ const projects = [{
         source_code_link: "https://github.com/",
     },
     {
-        name: "Trip Guide",
+        name: "Hirekarma",
         description: "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
         tags: [{
-                name: "nextjs",
+                name: "php",
                 color: "blue-text-gradient",
             },
             {
-                name: "supabase",
+                name: "Laravel",
                 color: "green-text-gradient",
             },
             {
